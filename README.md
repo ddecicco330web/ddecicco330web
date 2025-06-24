@@ -6,9 +6,8 @@ Web Developer
 
 I've been learning how to code for the last year and a half, after switching careers.
 
-* 🌍  I'm based in New York City
+* 🌍  I'm based in Calgary, AB
 * ✉️  You can contact me at [ddecicco330@gmail.com](mailto:ddecicco330@gmail.com)
-* 🧠  I'm learning Advance Javascript
 
 ### Skills
 
