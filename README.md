@@ -1,7 +1,7 @@
 Hi 👋 My name is Dominic DeCicco
 ================================
 
-Full-Stack Developer
+Web Developer
 --------------------
 
 I've been learning how to code for the last year and a half, after switching careers.
