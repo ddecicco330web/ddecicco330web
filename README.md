@@ -7,7 +7,7 @@ Game Developer focused on systems, mechanics, and player experience
 # 💫 About Me:
 I’m a game developer with degree-level training in game development and a strong foundation in programming and technical problem-solving. I enjoy building games by experimenting with mechanics, prototyping systems, and learning through iteration—especially through small-scope projects and game jam–style development. I’m motivated by curiosity, clean systems, and creating experiences that feel good to play—whether they’re meaningful, educational, or just fun. <br><br>
 ## Currently Working On
-A classroom-friendly, math-focused game inspired by Kahoot, designed to make learning interactive, fast-paced, and engaging for students<br><br>
+A small scoped game engine that serves as a base for a 2D platformer<br><br>
 ## Currently Learning
 Low-level programming concepts in C, with a focus on memory management and understanding how things work under the hood<br><br>
 
