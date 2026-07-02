@@ -20,4 +20,4 @@ Low-level programming concepts in C, with a focus on memory management and under
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-* 🌍  I'm based in Calgary, AB
+* 🌍  I'm based in New York, NY
